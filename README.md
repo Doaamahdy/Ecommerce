@@ -90,18 +90,6 @@ ecommerce/
 
 ---
 
-## ⚙️ Utility Functions
-
-### ✅ `validateMongodbId(id)`
-
-Checks if a given ID is a valid MongoDB ObjectId. Throws an error if invalid.
-
-### ☁️ `cloudinaryUploadImg(fileToUpload)`
-
-Uploads images to Cloudinary (supports all types: image, video, etc.) and returns the secure URL.
-
----
-
 ## 📦 Installation
 
 ### 1. Clone the repo
